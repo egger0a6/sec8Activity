@@ -1,2 +1,2 @@
 # sec8Activity
-Csc210 section 8 activity
+CSc346 - Lab 08 - First webhook push test
